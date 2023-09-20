@@ -1,0 +1,33 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+    font-size: medium;
+    font-weight: bolder;
+}
+
+h3 {
+    font-size: small;
+    font-weight: bold;
+}
+
+p {
+    font-size: x-small;
+}
+
+header {
+    text-align: center;
+    background-color: gainsboro;
+    padding: 15px;
+}
+
+.fila {
+    column-count: 2;
+    column-rule-style: solid;
+    padding: 10px;
+}
+
+.noticia {
+    margin: 10px;
+}
