@@ -22,12 +22,14 @@ header {
     padding: 15px;
 }
 
-.fila {
-    column-count: 2;
-    column-rule-style: solid;
-    padding: 10px;
+.noticia {
+    columns: 3;
+    background-color: beige;
+    padding: 15px;
 }
 
-.noticia {
-    margin: 10px;
+.boton {
+    background-color: whitesmoke;
+    border: 10px;
+
 }
